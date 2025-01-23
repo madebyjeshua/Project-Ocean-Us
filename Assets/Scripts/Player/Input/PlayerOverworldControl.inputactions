@@ -1,0 +1,56 @@
+{
+    "name": "PlayerOverworldControl",
+    "maps": [
+        {
+            "name": "Movement",
+            "id": "352551a7-7352-4b55-81a3-c9f6cb2c89c7",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "1e52abd4-d53f-45d5-b022-ffaa135abd5f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "2D Vector",
+                    "id": "64a8ca66-a6b7-4fc6-9426-959ba989d001",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "left",
+                    "id": "8a0e8c4b-cea1-4f51-a72b-72a68c4b525c",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "31d64194-c44a-4623-992e-8f759b92cb89",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

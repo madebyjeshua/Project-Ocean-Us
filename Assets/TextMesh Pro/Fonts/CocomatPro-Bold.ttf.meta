@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: fdccae652b84c4043b48e100bb6851d1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cocomat Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54d343137b90449f6ae3d1628d97ab66, type: 3}
+  - {fileID: 12800000, guid: 51089519473884037be4611b799b2bf6, type: 3}
+  - {fileID: 12800000, guid: 885137d9116e54daca554c99935fc6fc, type: 3}
+  - {fileID: 12800000, guid: 2d7d6f615b9d2459d82ebe5c809ab5f8, type: 3}
+  - {fileID: 12800000, guid: d6be2c8645acd4a1a857c209fae5e5a4, type: 3}
+  - {fileID: 12800000, guid: 3bf0c7c81b84a4ead857b0435326f1c8, type: 3}
+  - {fileID: 12800000, guid: 1e4354ce72890475f973d71b9f19b1e1, type: 3}
+  - {fileID: 12800000, guid: f0cc834aedb764fdbad28cc954b8939e, type: 3}
+  - {fileID: 12800000, guid: a06bd2d8edf15424f95a3b5f48003320, type: 3}
+  - {fileID: 12800000, guid: 2fb8eda07a13541d79b9cbab7e4a9bab, type: 3}
+  - {fileID: 12800000, guid: 1c5217f992ae246e7927054838d061d3, type: 3}
+  - {fileID: 12800000, guid: 7f07b2953361f47e4985de5842ee6b25, type: 3}
+  - {fileID: 12800000, guid: 03c8a4b8ee9bf4d47aab6de7d1840ff2, type: 3}
+  - {fileID: 12800000, guid: 6ea7d85b3b49f4cff9ffcd975628db6c, type: 3}
+  - {fileID: 12800000, guid: a6cc12904307e48d5ac3ce4d6c6831ab, type: 3}
+  - {fileID: 12800000, guid: a5edecfaa36564744ad088bb64762aa6, type: 3}
+  - {fileID: 12800000, guid: 375fb48c6cc7f4f38a98ed6219945b11, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

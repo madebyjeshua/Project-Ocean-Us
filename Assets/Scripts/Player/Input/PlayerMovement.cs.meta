@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5034081a70b674e858724a19b22a74d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inputActionReference: {instanceID: 0}
+  - _playerController: {instanceID: 0}
+  - _camController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
